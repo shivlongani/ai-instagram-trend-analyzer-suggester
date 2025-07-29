@@ -233,14 +233,6 @@ IMPORTANT: Return ONLY the JSON above, no other text."""
                 "matched_trends": [],
                 "post_suggestions": []
             }
-            
-            return UserInterests(
-                primary_interests=interests,
-                content_style="casual",
-                preferred_formats=["photos", "reels"],
-                audience_type="general",
-                tone="personal"
-            )
     
     def match_trends_to_interests(self, user_interests: UserInterests, trending_hashtags: List[str]) -> List[Dict[str, Any]]:
         """Match trending hashtags to user interests with enhanced format validation"""

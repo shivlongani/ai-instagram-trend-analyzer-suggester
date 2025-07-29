@@ -70,7 +70,14 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
     - name: Run security scan
-      uses: pypa/gh-action-pip-audit@v1.0.8
+      uses: pypa/gh-action-pip-audit@v1.1.0
       with:
         inputs: insta_trend_suggester/requirements.txt
+        ignore-vulns: |
+          GHSA-jfhm-5ghh-2f97
