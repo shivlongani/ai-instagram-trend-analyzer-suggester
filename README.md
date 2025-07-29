@@ -4,7 +4,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com)
 [![Gemini AI](https://img.shields.io/badge/Gemini_AI-Powered-orange.svg)](https://ai.google.dev)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue.svg)](https://postgresql.org)
-[![CI](https://github.com/YOUR_GITHUB_USERNAME/ai-instagram-trend-analyzer-suggester/workflows/CI/badge.svg)](https://github.com/YOUR_GITHUB_USERNAME/ai-instagram-trend-analyzer-suggester/actions)
+[![CI](https://github.com/shivlongani/ai-instagram-trend-analyzer-suggester/workflows/CI/badge.svg)](https://github.com/shivlongani/ai-instagram-trend-analyzer-suggester/actions)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **AI-powered Instagram content recommendation system** that analyzes profiles and suggests trending content ideas using Google's Gemini API.
@@ -44,7 +44,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/ai-instagram-trend-analyzer-suggester.git
+   git clone https://github.com/shivlongani/ai-instagram-trend-analyzer-suggester.git
    cd ai-instagram-trend-analyzer-suggester/insta_trend_suggester
    ```
 
@@ -217,7 +217,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-**Issues**: [Report bugs or request features](https://github.com/YOUR_GITHUB_USERNAME/ai-instagram-trend-analyzer-suggester/issues)
+**Issues**: [Report bugs or request features](https://github.com/shivlongani/ai-instagram-trend-analyzer-suggester/issues)
 
 ## 📝 License
 
@@ -231,8 +231,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**[Your Name]**
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+**Shiv Longani**
+- GitHub: [@shivlongani](https://github.com/shivlongani)
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 
 ## 🙏 Acknowledgments
