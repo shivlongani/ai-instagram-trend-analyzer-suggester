@@ -1,10 +1,10 @@
-# Instagram Trend Suggester 🚀
+# AI Instagram Trend Analyzer 🚀
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com)
 [![Gemini AI](https://img.shields.io/badge/Gemini_AI-Powered-orange.svg)](https://ai.google.dev)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue.svg)](https://postgresql.org)
-[![CI](https://github.com/YOUR_GITHUB_USERNAME/insta-trend-suggester/workflows/CI/badge.svg)](https://github.com/YOUR_GITHUB_USERNAME/insta-trend-suggester/actions)
+[![CI](https://github.com/YOUR_GITHUB_USERNAME/ai-instagram-trend-analyzer-suggester/workflows/CI/badge.svg)](https://github.com/YOUR_GITHUB_USERNAME/ai-instagram-trend-analyzer-suggester/actions)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **AI-powered Instagram content recommendation system** that analyzes profiles and suggests trending content ideas using Google's Gemini API.
@@ -44,8 +44,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/insta-trend-suggester.git
-   cd insta-trend-suggester/insta_trend_suggester
+   git clone https://github.com/YOUR_GITHUB_USERNAME/ai-instagram-trend-analyzer-suggester.git
+   cd ai-instagram-trend-analyzer-suggester/insta_trend_suggester
    ```
 
 2. **Create virtual environment**
@@ -217,7 +217,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-**Issues**: [Report bugs or request features](https://github.com/YOUR_GITHUB_USERNAME/insta-trend-suggester/issues)
+**Issues**: [Report bugs or request features](https://github.com/YOUR_GITHUB_USERNAME/ai-instagram-trend-analyzer-suggester/issues)
 
 ## 📝 License
 
