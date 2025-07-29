@@ -1,6 +1,6 @@
 # AI Instagram Trend Analyzer 🚀
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com)
 [![Gemini AI](https://img.shields.io/badge/Gemini_AI-Powered-orange.svg)](https://ai.google.dev)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue.svg)](https://postgresql.org)
@@ -36,7 +36,7 @@
 
 ### Prerequisites
 
-- Python 3.8+
+- Python 3.10+
 - PostgreSQL or Supabase account
 - Google Gemini API key ([Get one here](https://ai.google.dev))
 
