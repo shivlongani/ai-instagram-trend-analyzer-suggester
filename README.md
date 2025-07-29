@@ -233,7 +233,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Shiv Longani**
 - GitHub: [@shivlongani](https://github.com/shivlongani)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shiv-longani/)
+- LinkedIn: [Shiv Longani](https://www.linkedin.com/in/shiv-longani/)
 
 ## 🙏 Acknowledgments
 
