@@ -4,6 +4,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com)
 [![Gemini AI](https://img.shields.io/badge/Gemini_AI-Powered-orange.svg)](https://ai.google.dev)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue.svg)](https://postgresql.org)
+[![CI](https://github.com/YOUR_GITHUB_USERNAME/insta-trend-suggester/workflows/CI/badge.svg)](https://github.com/YOUR_GITHUB_USERNAME/insta-trend-suggester/actions)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **AI-powered Instagram content recommendation system** that analyzes profiles and suggests trending content ideas using Google's Gemini API.
@@ -43,8 +44,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YourUsername/instagram-trend-suggester.git
-   cd instagram-trend-suggester/insta_trend_suggester
+   git clone https://github.com/YOUR_GITHUB_USERNAME/insta-trend-suggester.git
+   cd insta-trend-suggester/insta_trend_suggester
    ```
 
 2. **Create virtual environment**
@@ -208,11 +209,15 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 
 ## 🤝 Contributing
 
+We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+**Issues**: [Report bugs or request features](https://github.com/YOUR_GITHUB_USERNAME/insta-trend-suggester/issues)
 
 ## 📝 License
 
@@ -226,9 +231,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@YourUsername](https://github.com/YourUsername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+**[Your Name]**
+- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 
 ## 🙏 Acknowledgments
 
