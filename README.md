@@ -4,7 +4,6 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com)
 [![Gemini AI](https://img.shields.io/badge/Gemini_AI-Powered-orange.svg)](https://ai.google.dev)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue.svg)](https://postgresql.org)
-[![CI](https://github.com/shivlongani/ai-instagram-trend-analyzer-suggester/workflows/CI/badge.svg)](https://github.com/shivlongani/ai-instagram-trend-analyzer-suggester/actions)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **AI-powered Instagram content recommendation system** that analyzes profiles and suggests trending content ideas using Google's Gemini API.
